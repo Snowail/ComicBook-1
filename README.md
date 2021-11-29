@@ -26,20 +26,20 @@
 ```sh
 # 在线安装/升级（最新版本）
 # 由于网络环境不好导致安装失败 可以搜索关键词尝试解决: github host 修改
-python3 -m pip install -U git+https://github.com/lossme/ComicBook
+python3 -m pip install -U git+https://github.com/Snowail/ComicBook-1
 
 # 查看帮助
 python3 -m onepiece --help
 
 # 安装指定版本
-python3 -m pip install git+https://github.com/lossme/ComicBook@v0.3.20
+python3 -m pip install git+https://github.com/Snowail/ComicBook-1@v0.3.20
 ```
 
 ### 方式二（源码安装）
 
 ```sh
 # clone项目 或从这里下载最新的代码并解压 https://github.com/lossme/ComicBook/releases
-git clone git@github.com:lossme/ComicBook.git
+git clone git@github.com:Snowail/ComicBook-1.git
 # 切换工作目录
 cd ComicBook
 
